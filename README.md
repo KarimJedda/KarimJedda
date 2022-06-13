@@ -4,7 +4,7 @@ I'm Karim Jedda, I maintain a personal blog on [karimjedda.com](https://karimjed
 
 My main socials are [LinkedIn](https://www.linkedin.com/in/karim-jedda/) and [Twitter](https://twitter.com/KarimJDDA). Feel free to reach out if you have any questions. 
 
-I'm currently working at Audi as a product manager and backend engineer. 
+I'm currently working at Parity Technologies as a Lead Data Engineer. 
 
 <!--
 **KarimJedda/KarimJedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
