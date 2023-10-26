@@ -1,6 +1,8 @@
 ### Hello 🇺🇸, Bonjour 🇫🇷, Hallo 🇩🇪, السلام عليكم 🇹🇳 👋
 
-I'm Karim Jedda, I maintain a personal blog on [karimjedda.com](https://karimjedda.com). You can find my older articles on [funnybretzel.com](https://funnybretzel.com)
+I'm Karim Jedda, I maintain a personal blog on [karimjedda.com](https://karimjedda.com). 
+
+I'm the author of [datawithrust.com(https://datawithrust.com) and maintain [arewedatayet.com(https://arewedatayet.com). 
 
 My main socials are [LinkedIn](https://www.linkedin.com/in/karim-jedda/) and [Twitter](https://twitter.com/KarimJDDA). Feel free to reach out if you have any questions. 
 
