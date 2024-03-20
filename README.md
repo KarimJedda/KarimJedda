@@ -6,7 +6,7 @@ I'm the author of [datawithrust.com](https://datawithrust.com) and maintain [are
 
 My main socials are [LinkedIn](https://www.linkedin.com/in/karim-jedda/) and [Twitter](https://twitter.com/KarimJDDA). Feel free to reach out if you have any questions. 
 
-I'm currently working at Parity Technologies as a Lead Data Engineer. 
+I'm currently working at Parity Technologies as a Senior Tech Lead, responsible for the Infrastructure & Data department. 
 
 <!--
 **KarimJedda/KarimJedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
